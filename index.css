@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: o;
+}
+h2{
+text-align: center;
+padding: 10px;
+background:#0a747ed9;
+color: white;
+font-family:sans-serif;
+}
+h2 a{
+text-decoration: none;
+color: #ff002d;
+font-family: cursive;
+margin-left: 5px;
+
+}
+.main{
+background:#ecf0f1;
+width: 100%;
+height: 100%;
+display: inline-flex;
+}
+#editor-textarea{
+width: 100%;
+height: 95%;
+margin: 10px;
+padding: 10px;
+background: black;
+color: #fefefe;
+font-family: cursive;
+}
+#viewer{
+background: white;
+border: none;
+width: 100%;
+height: 95%;
+margin: 10px;
+border: 1px solid #186da6;
+}
